@@ -1,2 +1,2 @@
 # agnostic-order-binary-search
-Códgio en index.js
+Código en index.js
